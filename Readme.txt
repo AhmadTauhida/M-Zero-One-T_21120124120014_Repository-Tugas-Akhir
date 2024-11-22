@@ -1,0 +1,1 @@
+File Mathbob.jar terdapat di out -> artifacts -> Mathbob_jar -> Mathbob.jar
